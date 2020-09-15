@@ -1,5 +1,5 @@
 {
-  "name": "cowegis/cowegis-contao-monolingual-pack",
+  "name": "cowegis/cowegis-contao-multilingual-pack",
   "type": "metapackage",
   "description": "Cowegis Contao Multilingual Pack",
   "license": "LGPL-3.0-or-later",
