@@ -12,7 +12,7 @@
   "require": {
     "cowegis/cowegis-client-bundle": "^1.0",
     "cowegis/cowegis-contao-bundle": "^1.0",
-    "cowegis/cowegis-contao-provider-layer": "^1.0",
+    "cowegis/cowegis-contao-provider-layer-bundle": "^1.0",
     "cowegis/cowegis-contao-multilingual-bundle": "^1.0"
   },
   "require-dev": {
